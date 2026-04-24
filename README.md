@@ -7,7 +7,6 @@
 
 ## 🔸 About Me  
 I am passionate about analyzing data to uncover meaningful insights and support data-driven decision-making. I enjoy working with structured data, exploring patterns, and presenting findings in a clear and impactful way.  
-
 I focus on solving real-world problems using data analysis, visualization, and logical thinking. Every dataset is an opportunity to discover something valuable.
 
 ---
@@ -25,8 +24,6 @@ I focus on solving real-world problems using data analysis, visualization, and l
 ## 🔸 Projects  
 - **Netflix Data Analysis** – Extracted business insights using EDA and visualization  
 - **Sales Data Analysis** – Identified trends and key performance indicators  
--  
-
 ---
 
 ## 🔸 Currently Learning  
